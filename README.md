@@ -1,4 +1,4 @@
-# XYZ Store Analysis 
+# XYZ Store Analysis 🛒🛒
 XYZ Store is a small retail business and has operated for 4 years. They sell Furniture, Office Supplies and Technology products and their customers are the mass Consumer, Corporate and Home Offices. 
 The data set contains sales, profit and geographical information of individual orders.
 
